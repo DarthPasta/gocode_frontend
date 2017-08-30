@@ -1,0 +1,14 @@
+nav.navbar.navbar-inverse {
+	margin: 0;
+}
+
+div.col-md-12 {
+	padding: 0;
+	background-size: cover;
+
+}
+
+ul.col-md-8 {
+	display: inline-block;
+}
+
